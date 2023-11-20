@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("welcome to my quizz, let's do it !")
+st.title("Welcome to my quizz, let's do it !")
 
 st.subheader("Question 1 : ")
 with st.form("question1"):
